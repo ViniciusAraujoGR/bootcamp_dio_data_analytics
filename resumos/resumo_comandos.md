@@ -40,8 +40,9 @@ Observações:
 | __git merge teste__ | Mescla a branch teste(onde foi feita alguma alteração) na branch main
 |__git branch__ | Visualiza a branhc que estamos e todas as branchs |
 |__git branch -d__ teste | Uma vez feita as alterações nas branch teste 
-
-
+|__git clone url --branch__ teste __--single-branch__ | Clona apenas a branch teste de um repositorio remoto |
+|__git stash__| Pesquisar mais sobre
+|__git fetch__| Pesquisar mais sobre
 
 
 Observações: 
