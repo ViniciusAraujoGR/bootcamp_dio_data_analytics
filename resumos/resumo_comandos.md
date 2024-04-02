@@ -27,8 +27,30 @@ Observações:
 - Para editar o commit no Vim, primeiro é preciso apertar insert, depois disso editar o nome do commit em cima e para salvar e sair apertar ESC e digitar :wq 
 - Desfazer as alterações nos commits devem ser feitas apenas localmente antes do envio para o repositório remoto para evitar conflitos.
 
-## 🛜 COMANDOS REPO LOCAL - REPO REMOTO 
+## 🛜 COMANDOS REPO LOCAL & REPO REMOTO 
 
 | COMANDOS  | UTILIDADE |
 |-----------|-----------|
-|
+| __git remote add origin__ url | Conecta o repo remoto com o repo local
+| __git push -u origin main__ | Atualiza o repo remoto com as infromaçãoes do repo local
+|__git pull__ | Atualiza as alterações feitas remotamente no repositório local 
+| __git checkout -b__ teste | Cria uma nova branch com base no último commit da branch atual/main |
+|__git checkout main__ |  Retorna á branch main apartir da branch teste
+|__git branch -v__ | Mostra em que commit esta cada branch|
+| __git merge teste__ | Mescla a branch teste(onde foi feita alguma alteração) na branch main
+|__git branch__ | Visualiza a branhc que estamos e todas as branchs |
+|__git branch -d__ teste | Uma vez feita as alterações nas branch teste 
+
+
+
+
+Observações: 
+- Sepre dar o git pull para atualizar os arquivos locais quando tiv er alteração nos arquivos remotamente
+- É possivel codar no Github remotamente, alterando tanto códigos quanto arquivos txt, sempre comitando as mudanças. Parecido com o VSCode.
+- Sempre se certificar em qual branch está se trabalhando, chamar as branchs "teste" de feature.
+- 
+
+
+
+
+
