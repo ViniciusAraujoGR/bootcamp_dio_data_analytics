@@ -1,5 +1,5 @@
 
-# DIO | RESUMOS DATA ANALITICS BOOTCAMP
+# DIO | RESUMO DATA ANALITICS BOOTCAMP
 
 Repositório para armazenar resumos do Bootcamp Coding The Future Data Analystiucs Squadio
 [DIO INOVATION ONE] (https://www.dio.me/bootcamp/bootcamp-squadio) 
