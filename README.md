@@ -7,6 +7,7 @@ Repositório para armazenar resumos do Bootcamp Coding The Future Data Analystiu
 ## 📖 DOCUMENTAÇÃO
 - [DOCUMENTAÇÃO GIT] (https://git-scm.com/doc)
 - [DOCUMENTAÇÃO GITHUB] (https://docs.github.com/pt)
+- [DOCUMENTAÇÃO PYTHON] (https://docs.python.org/pt-br/3/tutorial/index.html)
 
 ## 💻 ATIVIDADES FEITAS
 
