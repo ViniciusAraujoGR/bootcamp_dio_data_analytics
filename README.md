@@ -8,8 +8,10 @@ Repositório para armazenar resumos do Bootcamp Coding The Future Data Analystiu
 - [DOCUMENTAÇÃO GIT] (https://git-scm.com/doc)
 - [DOCUMENTAÇÃO GITHUB] (https://docs.github.com/pt)
 
-## 💻 RESUMOS FEITOS
+## 💻 ATIVIDADES FEITAS
 
-| ASSUNTOS | RESUMOS |
+| ASSUNTOS | RESUMOS/CÓDIGOS |
 |----------|---------|
 | GIT & GITHUB| COMANDOS UTEÍS & EXPLICAÇÃO |
+| LISTAS EM PYTHON | COMANDOS UTEÍS |
+| TUPLAS E CONJUNTOS EM PYTHON | COMANDOS UTEÍS |
